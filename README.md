@@ -4,7 +4,7 @@ A Python-based smart automation system that uses ultrasonic sensors to detect th
 
 ## 📽️ Demo Video
 
-👉 *[[Demo video link here](https://youtu.be/bF2i0LKluh4)]*
+👉 *[[Demo video link here](https://youtu.be/1uNaFuRHKQs)]*
 
 ---
 
